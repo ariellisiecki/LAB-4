@@ -34,8 +34,8 @@ namespace ConsoleApplication2
     {
         static void Main(string[] args)
         {
-            int istrue = 80;
-            if (istrue <= 8)
+            int istrue = 8;
+            if (istrue >= 80)
                 Console.WriteLine("it is true");
             else
                 Console.WriteLine("it is false");
