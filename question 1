@@ -1,0 +1,4 @@
+An if statement allows an app to make a decision based on the value of a condition.
+A while statement is an iteration statement that allows the execution of a statement conditionally for zero or more times. 
+when comparing the two, they are both statements that test if something is true or false.
+when contrasting the two, if only runs once. while runs multipule times unti its true. 
